@@ -1,2 +1,2 @@
 # College Assignment
-College System using Java without GUI
+College System using Java and OOP techniques without GUI
